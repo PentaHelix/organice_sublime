@@ -1,0 +1,14 @@
+[
+    { 
+    "caption": "Organice: List", 
+    "command": "list_todo"
+    },
+    { 
+    "caption": "Organice: Notes", 
+    "command": "open_notes"
+    },
+    { 
+    "caption": "Organice: Reconnect to Server", 
+    "command": "reconnect"
+    },
+]

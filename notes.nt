@@ -1,0 +1,54 @@
+STORY:
+	Scavaging company
+		Salvage lost ships
+
+	Company conflict
+		Two companies that are in conflict
+		Resources vs. Knowledge	
+
+	AI gone rogue
+		Reclaim lost ships
+		Hacker manipulates AI
+		AI fleet
+
+	All just a test
+		Cliffhanger
+
+
+GAMEPLAY:
+	Beam to ships
+		Beam back to base on death
+		Remotely control drones
+		Multiple drones on same ship
+			Default drone
+			Scout drone
+			Hacking drone
+
+	Repair ship using scrap
+		Upgrade functionally/visually
+
+	Guns
+		Machinegun
+		Shotgun
+		Laser/Energy/Beam
+	
+	Stealth vs Agression
+		No better playstyle
+
+	Improve Scanner to get harder missions
+
+	Gameplay structure
+		1. New mission
+		2. Enter drone on ship
+		3. Find and destroy AI core
+		4. Return to ship
+		5. Scrap / keep guns
+		6. Upgrade ship
+		7. Get new missions
+
+	Enemies
+		Targeted blinding laser
+		Chase
+		Shoot from distance
+		Melee attacks
+		Kamikaze
